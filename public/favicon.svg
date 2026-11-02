@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#06B6D4" />
+    </linearGradient>
+    <linearGradient id="innerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D4ED8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+  <path d="M32 4L10 14V30C10 44.5 19.4 57.8 32 61C44.6 57.8 54 44.5 54 30V14L32 4Z" fill="#0B1120" stroke="url(#shieldGrad)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 12L16 19.5V31C16 41.5 22.8 51 32 53.5C41.2 51 48 41.5 48 31V19.5L32 12Z" fill="url(#innerGrad)" fill-opacity="0.25" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <!-- Cyber Keyhole / Monogram N -->
+  <path d="M26 40V24L38 40V24" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="32" cy="18" r="2.5" fill="#38BDF8"/>
+</svg>
+
