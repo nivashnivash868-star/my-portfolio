@@ -1,5 +1,57 @@
 export const certifications = [
   {
+    id: "databricks-generative-ai",
+    title: "Databricks Accredited Generative AI Fundamentals",
+    issuer: "Databricks Academy",
+    category: "Artificial Intelligence",
+    icon: "Sparkles",
+    fileUrl: "/certificates/databricks-generative-ai-fundamentals.jpg",
+    image: "/certificates/databricks-generative-ai-fundamentals.jpg",
+    issueDate: "November 2026",
+    credentialBadge: "Databricks Accredited",
+    skills: ["Generative AI", "LLMs & RAG", "Prompt Engineering", "Compound AI Systems"],
+    linkedInUrl: "https://lnkd.in/p/g7pJp93w"
+  },
+  {
+    id: "claude-code-action",
+    title: "Claude Code in Action",
+    issuer: "Anthropic",
+    category: "Artificial Intelligence",
+    icon: "Terminal",
+    fileUrl: "/certificates/claude-code-in-action.jpg",
+    image: "/certificates/claude-code-in-action.jpg",
+    issueDate: "November 2026",
+    credentialBadge: "Anthropic Certified",
+    skills: ["Claude Code", "AI-Assisted Coding", "Developer Productivity", "Workflow Automation"],
+    linkedInUrl: "https://lnkd.in/p/gSZb7x4V"
+  },
+  {
+    id: "openai-academy-agents-workflows",
+    title: "AI Agents and Workflows",
+    issuer: "OpenAI Academy",
+    category: "Artificial Intelligence",
+    icon: "Bot",
+    fileUrl: "/certificates/openai-academy-ai-agents.jpg",
+    image: "/certificates/openai-academy-ai-agents.jpg",
+    issueDate: "November 2026",
+    credentialBadge: "OpenAI Academy",
+    skills: ["AI Agents", "Agentic AI", "Tool Calling", "Multi-Step Orchestration"],
+    linkedInUrl: "https://lnkd.in/p/gdAsHnBz"
+  },
+  {
+    id: "business-analytics-excel",
+    title: "Business Analytics with Excel",
+    issuer: "Simplilearn & Microsoft",
+    category: "Data & Analytics",
+    icon: "BarChart3",
+    fileUrl: "/certificates/business-analytics-excel.jpg",
+    image: "/certificates/business-analytics-excel.jpg",
+    issueDate: "November 2026",
+    credentialBadge: "Microsoft & Simplilearn",
+    skills: ["Business Analytics", "Microsoft Excel", "Data Analytics", "Data-Driven Insights"],
+    linkedInUrl: "https://lnkd.in/p/gJerwV3V"
+  },
+  {
     id: "career-essentials-cybersecurity",
     title: "Career Essentials in Cybersecurity",
     issuer: "Microsoft & LinkedIn",
